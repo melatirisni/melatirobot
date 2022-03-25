@@ -93,10 +93,10 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="Support", url="https://t.me/Komunitasvirtual"),
+        InlineKeyboardButton(text="Get Help", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="Get Help", callback_data="help_back"),
+        InlineKeyboardButton(text="Support", url="https://t.me/Komunitasvirtual"),
     ],
     [
         InlineKeyboardButton(

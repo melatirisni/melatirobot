@@ -4,7 +4,7 @@
 
 <h4><p align="center"> REYZU ROBOT </p></h4>
 
-<p align="center">Emiko Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">Reyzu Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
 <a href="https://t.me/ReyzuRobot"> <img src="https://img.shields.io/badge/Reyzu-Robot-blue?&logo=telegram" alt="Reyzu on Telegram" /> </a><br>

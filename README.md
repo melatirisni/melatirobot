@@ -39,12 +39,14 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ### Support
 <p>
-<a href="https://t.me/ReyzuRobot"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Sena on Telegram" /> </a><br>
+<a href="https://t.me/ReyzuRobot"> <img src="https://img.shields.io/badge/Reyzu-Ex-blue?&logo=telegram" alt="Reyzu on Telegram" /> </a><br>
 <a href="https://t.me/komunitas_virtual"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 <a href="https://t.me/komunitasvirtual"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
 
 ## Credit 
+
+• [Reyzu](https://github.com/Reyzuuu)
 
 • [Sena](https://github.com/kennedy-ex)
 

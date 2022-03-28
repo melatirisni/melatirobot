@@ -1,6 +1,6 @@
 import os
 import re
-from platform import python_version as kontol
+from platform import python_version as Reyzu
 from telethon import events, Button
 from telegram import __version__ as telever
 from telethon import __version__ as tlhver

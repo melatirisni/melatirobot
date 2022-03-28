@@ -456,7 +456,7 @@ def emiko_about_callback(update, context):
 
     elif query.data == "emiko_credit":
         query.message.edit_text(
-            text=f"๏ Credis for Reyzu\n"
+            text=f"๏ Credit for Reyzu\n"
             "\nHere Developers Making And Give Inspiration For Made The ReyzuRobot",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(

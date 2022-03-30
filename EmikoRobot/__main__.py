@@ -98,7 +98,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="help_back"),
         InlineKeyboardButton(
-            text="ᴛʀʏ ɪɴʟɪɴᴇ!​​", switch_inline_query_current_chat=""
+            text="ᴄᴏɴᴛᴀᴄᴛ!​​", url="https://t.me/Reyzuuu"),
         ),
     ],
     [

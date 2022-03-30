@@ -93,17 +93,17 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="Add Me To Your Group", url=f"t.me/{bu}?startgroup=new"),
+        InlineKeyboardButton(text="✙ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ✙", url=f"t.me/{bu}?startgroup=new"),
     ],
     [
-        InlineKeyboardButton(text="Get Help", callback_data="help_back"),
+        InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Try inline!​​", switch_inline_query_current_chat=""
+            text="ᴄʜᴀᴛᴛ", url=f"t.me/Reyzuuu"),
         ),
     ],
     [
         InlineKeyboardButton(
-            text="About", callback_data="emiko_"),
+            text="ᴀʙᴏᴜᴛ", callback_data="emiko_"),
     ],
 ]
 

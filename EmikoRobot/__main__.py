@@ -358,7 +358,7 @@ def emiko_about_callback(update, context):
     query = update.callback_query
     if query.data == "emiko_":
         query.message.edit_text(
-            text="๏ I'm *Reyzu*, a powerful group management bot built to help you manage your group easily."
+            text="I'm *Reyzu Robot*, a powerful group management bot built to help you manage your group easily."
             "\n• I can play music and videos."
             "\n• I can restrict users."
             "\n• I can greet users with customizable welcome messages and even set a group's rules."

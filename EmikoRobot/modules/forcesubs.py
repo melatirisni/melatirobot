@@ -175,7 +175,7 @@ def config(client, message):
 
 __help__ = """
 *Force Subscribe:*
-❂ Emiko can mute members who are not subscribed your channel until they subscribe
+❂ Reyzu can mute members who are not subscribed your channel until they subscribe
 ❂ When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them
 ❂*Setup*
 *Only creator*
@@ -200,4 +200,4 @@ Feds are now divided into 3 sections for your ease.
 • `/fedadminhelp`*:* Provides help for fed administration commands
 • `/feduserhelp`*:* Provides help for commands anyone can use
 """
-__mod_name__ = "F-Sub/Feds"
+__mod_name__ = "ꜰ-ꜱᴜʙ/ꜰᴇᴅꜱ"

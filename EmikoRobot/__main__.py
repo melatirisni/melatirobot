@@ -440,8 +440,8 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Support", url="t.me/komunitas_virtual"),
-                    InlineKeyboardButton(text="Updates", url="https://t.me/Komunitasvirtual"),
+                    InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url="t.me/komunitas_virtual"),
+                    InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url="https://t.me/Komunitasvirtual"),
                  ],
                  [
                     InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="emiko_"),
@@ -460,12 +460,12 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Reyzu", url="https://github.com/reyzuuu"),
-                    InlineKeyboardButton(text="Sena-Ex", url="https://github.com/kennedy-ex"),
+                    InlineKeyboardButton(text="ʀᴇʏᴢᴜ-ʀᴏʙᴏᴛ", url="https://github.com/reyzuuu"),
+                    InlineKeyboardButton(text="ꜱᴇɴᴀ-ᴇx", url="https://github.com/kennedy-ex"),
                  ],
                  [
-                    InlineKeyboardButton(text="TheHamkerCat", url="https://github.com/TheHamkerCat"),
-                    InlineKeyboardButton(text="Feri", url="https://github.com/FeriEXP"),
+                    InlineKeyboardButton(text="ᴛʜᴇʜᴀᴍᴋᴇʀᴄᴀᴛ", url="https://github.com/TheHamkerCat"),
+                    InlineKeyboardButton(text="ꜰᴇʀɪ", url="https://github.com/FeriEXP"),
                  ],
                  [
                     InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="emiko_"),

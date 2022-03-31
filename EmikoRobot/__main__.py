@@ -381,9 +381,6 @@ def emiko_about_callback(update, context):
                     InlineKeyboardButton(text="ᴄʀᴇᴅɪᴛꜱ", callback_data="emiko_credit"),
                  ],
                  [
-                    InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​​", url="https://github.com/Reyzuuu/EmikoRobot"),
-                 ],
-                 [
                     InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="emiko_back"),
                  ]
                 ]

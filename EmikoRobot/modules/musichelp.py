@@ -1,12 +1,12 @@
 __mod_name__ = "Music/Video"
 
 __help__ = """
-Available Commands = play, vplay ,cplay.
-ForcePlay Commands = playforce, vplayforce ,cplayforce.
+*Available Commands = play, vplay ,cplay.*
+*ForcePlay Commands = playforce, vplayforce ,cplayforce.*
 
-c stands for channel play.
-v stands for video play.
-force stands for force play.
+*c stands for channel play.*
+*v stands for video play.*
+*force stands for force play.*
 
 ❂ /play or /vplay or /cplay (query or reply audio) - Bot will start playing your given query on voice chat or Stream live links on voice chats.
 ❂ /playforce or /vplayforce or /cplayforce -  Force Play stops the current playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.
@@ -15,7 +15,7 @@ force stands for force play.
 ❂ /deleteplaylist - Delete any saved music in your playlist
 ❂ /play  - Start playing Your Saved Playlist from Servers.
 
-• Admins only
+*Admins only*
 ❂ c stands for channel play.
 ❂ /settings - set menu, auth or lang.
 ❂ /pause or /cpause - Pause the playing music.
@@ -27,9 +27,9 @@ force stands for force play.
 ❂ /seekback or /cseekback - Backward Seek the music to your duration.
 ❂ /restart - Restart bot for your chat .
 
-• Auth User
+*Auth User*
 
-❂ /auth [Username] - Add a user to AUTH LIST of the group.
+❂ /auth [Username] - Add a user to auth list of the group.
 ❂ /unauth [Username] - Remove a user from auth of the group.
 ❂ /authusers - Check auth list of the group.
 

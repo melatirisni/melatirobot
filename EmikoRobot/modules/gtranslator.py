@@ -16,23 +16,23 @@ from EmikoRobot.modules.disable import DisableAbleCommandHandler
 
 __help__ = """ 
 Use this module to translate stuff!
-*Commands:*
+*Commands :*
 ❂ /tl (or /tr): as a reply to a message, translates it to English.
-❂ /tl <lang>: translates to <lang>
+❂ /tl <lang>: translates to <lang>.
 eg: /tl ja: translates to Japanese.
 ❂ /tl <source>//<dest>: translates from <source> to <lang>.
 eg:  /tl ja//en: translates from Japanese to English.
 ❂ /langs: get a list of supported languages for translation.
 
-I can convert text to voice and voice to text..
-❂ /tts <lang code>*:* Reply to any message to get text to speech output
+I can convert text to voice and voice to text.
+❂ /tts <lang code>*:* Reply to any message to get text to speech output.
 ❂ /stt*:* Type in reply to a voice message (support english only) to extract text from it.
 
 *Language Codes*
-Get /langs below to see the list of supported language codes
+Get /langs below to see the list of supported language codes.
 """
 
-__mod_name__ = "ᴛʀᴀɴꜱʟᴀᴛᴏʀ"
+__mod_name__ = "Translator"
 
 
 trans = Translator()

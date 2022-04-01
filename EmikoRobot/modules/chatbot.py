@@ -434,10 +434,10 @@ async def inuka(client, message):
 
 
 __help__ = """
-❂ Reyzu AI is the only ai system which can detect & reply upto 200 language's
+❂ Reyzu AI is the only ai system which can detect & reply up to 200 language's.
 
 ❂ /chatbot [ON/OFF]: Enables and disables AI Chat mode.
 ❂ /chatbot EN : Enables English only chatbot.
 """
 
-__mod_name__ = "ᴄʜᴀᴛʙᴏᴛ"
+__mod_name__ = "Chatbot"

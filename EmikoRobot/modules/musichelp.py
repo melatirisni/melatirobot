@@ -1,8 +1,8 @@
-__mod_name__ = "ᴍᴜꜱɪᴄ/ᴠɪᴅᴇᴏ"
+__mod_name__ = "Music/Video"
 
 __help__ = """
-Available Commands = play , vplay , cplay
-ForcePlay Commands = playforce , vplayforce , cplayforce
+Available Commands = play, vplay ,cplay.
+ForcePlay Commands = playforce, vplayforce ,cplayforce.
 
 c stands for channel play.
 v stands for video play.
@@ -16,21 +16,21 @@ force stands for force play.
 ❂ /play  - Start playing Your Saved Playlist from Servers.
 
 • Admins only
-c stands for channel play.
-❂ /settings - set menu, auth or lang
+❂ c stands for channel play.
+❂ /settings - set menu, auth or lang.
 ❂ /pause or /cpause - Pause the playing music.
 ❂ /resume or /cresume - Resume the paused music.
-❂ /mute or /cmute - Mute the playing music
-❂ /unmute or /cunmute - Unmute the muted music
+❂ /mute or /cmute - Mute the playing music.
+❂ /unmute or /cunmute - Unmute the muted music.
 ❂ /shuffle or /cshuffle - Randomly shuffles the queued playlist.
-❂ /seek or /cseek - Forward Seek the music to your duration
-❂ /seekback or /cseekback - Backward Seek the music to your duration
+❂ /seek or /cseek - Forward Seek the music to your duration.
+❂ /seekback or /cseekback - Backward Seek the music to your duration.
 ❂ /restart - Restart bot for your chat .
 
 • Auth User
 
 ❂ /auth [Username] - Add a user to AUTH LIST of the group.
-❂ /unauth [Username] - Remove a user from AUTH LIST of the group.
-❂ /authusers - Check AUTH LIST of the group.
+❂ /unauth [Username] - Remove a user from auth of the group.
+❂ /authusers - Check auth list of the group.
 
 """

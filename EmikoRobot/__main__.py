@@ -421,9 +421,8 @@ def emiko_about_callback(update, context):
     elif query.data == "emiko_notes":
         query.message.edit_text(
             text=f"<b>๏ Setting up notes</b>"
-            f"\nYou can save message/media/audio or anything as notes"
-            f"\nto get a note simply use # at the beginning of a word"
-            f"\n\nYou can also set buttons for notes and filters (refer help menu)",
+            f"\nYou can save message/media/audio or anything as notes to get a note simply use # at the beginning of a word."
+            f"\n\nYou can also set buttons for notes and filters (refer help menu).",
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="emiko_")]]
@@ -432,7 +431,7 @@ def emiko_about_callback(update, context):
     elif query.data == "emiko_support":
         query.message.edit_text(
             text="*๏ Reyzu support chats*"
-            "\nJoin My Support Group/Channel for see or report a problem on Reyzu.",
+            "\nJoin my support Group/Channel for see or report a problem on Reyzu.",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
@@ -452,7 +451,7 @@ def emiko_about_callback(update, context):
     elif query.data == "emiko_credit":
         query.message.edit_text(
             text=f"๏ Credit for Reyzu\n"
-            "\nHere Developers Making And Give Inspiration For Made The ReyzuRobot",
+            "\nHere Developers Making And Give Inspiration For Made The Reyzu Robot.",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [

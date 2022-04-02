@@ -1,8 +1,8 @@
 __mod_name__ = "Music/Video"
 
 __help__ = """
-*Available Commands = play, vplay ,cplay.*
-*ForcePlay Commands = playforce, vplayforce ,cplayforce.*
+*Available Commands : play, vplay ,cplay.*
+*ForcePlay Commands : playforce, vplayforce ,cplayforce.*
 
 *c stands for channel play.*
 *v stands for video play.*
@@ -32,5 +32,8 @@ __help__ = """
 ❂ /auth [Username] - Add a user to auth list of the group.
 ❂ /unauth [Username] - Remove a user from auth of the group.
 ❂ /authusers - Check auth list of the group.
+
+*Sudo User*
+Come and see [Only For Sudo User](https://telegra.ph/Only-For-Sudo-User-04-02)
 
 """

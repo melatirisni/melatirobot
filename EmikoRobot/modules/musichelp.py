@@ -28,7 +28,6 @@ __help__ = """
 ❂ /restart - Restart bot for your chat .
 
 *Auth User*
-
 ❂ /auth [Username] - Add a user to auth list of the group.
 ❂ /unauth [Username] - Remove a user from auth of the group.
 ❂ /authusers - Check auth list of the group.

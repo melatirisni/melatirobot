@@ -572,7 +572,7 @@ def snipe(update: Update, context: CallbackContext):
 
 
 __help__ = """
-*User Commands:*
+*User Commands :*
 
 ❂ /kickme *:* kicks the user who issued the command.
 

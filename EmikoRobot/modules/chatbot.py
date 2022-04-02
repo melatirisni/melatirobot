@@ -205,7 +205,7 @@ async def hmm(client, message):
         test = test.replace(
             "Hello there I am Reyzu...nice to meet u",
             "Hi, my friend! Do you want me to tell you a joke?")
-        test = test.replace("@komunitasvirtual is my owner", "Have the control right.")
+        test = test.replace("@Reyzuuu is my owner", "Have the control right.")
         test = test.replace(
             "Hi, My name is Reyzu Nice to meet you.",
             "Hi, my friend, what can I do for you today?")

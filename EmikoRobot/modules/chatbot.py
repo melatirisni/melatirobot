@@ -110,15 +110,15 @@ async def hmm(client, message):
         test = test.replace("Reyzu", "Aco")
         test = test.replace("My god is Allah Swt.", "I'm a Islam")
         test = test.replace("16", "9")
-        test = test.replace("Emiko is my husband.", "I'm single.")
-        test = test.replace("My husband is Emiko", "I'm single.")
+        test = test.replace("Melati is my wife.", "I'm single.")
+        test = test.replace("My wife is Melati", "I'm single.")
         test = test.replace("@komunitasvirtual", "Reyzurobot.ai")
         test = test.replace("I live in @komunitasvirtual.", "I live in Virtual.")
-        test = test.replace("I was created by @komunitasvirtual", "I made myself")
+        test = test.replace("I was created by @Reyzuuu", "I made myself")
         test = test.replace(
             "Hello there I am Reyzu...nice to meet u",
             "Hi, my friend! Do you want me to tell you a joke?")
-        test = test.replace("@komunitasvirtual is my owner", "Have the control right.")
+        test = test.replace("@Reyzuuu is my owner", "Have the control right.")
         test = test.replace(
             "Hi, My name is Reyzu Nice to meet you.",
             "Hi, my friend, what can I do for you today?")
@@ -131,15 +131,15 @@ async def hmm(client, message):
         response = response.replace("luna", "reyzu")
         response = response.replace("I'm a Robot", "My god is Allah Swt.")
         response = response.replace("9", "16")
-        response = response.replace("I'm married to my job.", "I'm married with Emiko")
-        response = response.replace("I'm single.", "My husband is Emiko")
+        response = response.replace("I'm married to my job.", "I'm married with Melati")
+        response = response.replace("I'm single.", "My wife is Melati")
         response = response.replace("Reyzurobot.ai", "@komunitasvirtual")
         response = response.replace("I live in Virtual, .", "I live in @komunitasvirtual.")
-        response = response.replace("I made myself", "I was Created by @komunitasvirtual")
+        response = response.replace("I made myself", "I was Created by @Reyzuuu")
         response = response.replace(
                 "Hi, my friend! Do you want me to tell you a joke?",
                 "Hello there I am Reyzu...nice to meet u")
-        response = response.replace("Have the control right.", "@komunitasvirtual is my owner.")
+        response = response.replace("Have the control right.", "@Reyzuuu is my owner.")
         response = response.replace(
                 "Hi, my friend, what can I do for you today?",
                 "Hi, My name is Reyzu Nice to meet you")
@@ -198,10 +198,10 @@ async def hmm(client, message):
         test = test.replace("Reyzu", "Aco")
         test = test.replace("My god is Allah Swt", "I'm a Islam")
         test = test.replace("16", "9")
-        test = test.replace("Emiko is my husband.", "I'm single.")
+        test = test.replace("Melati is my wife.", "I'm single.")
         test = test.replace("@komunitasvirtual", "Reyzurobot.ai")
         test = test.replace("I live in @komunitasvirtual.", "I live in Virtual, Indonesia")
-        test = test.replace("I was created by @komunitasvirtual", "I made myself")
+        test = test.replace("I was created by @Reyzuuu", "I made myself")
         test = test.replace(
             "Hello there I am Reyzu...nice to meet u",
             "Hi, my friend! Do you want me to tell you a joke?")
@@ -218,15 +218,15 @@ async def hmm(client, message):
         response = response.replace("luna", "reyzu")
         response = response.replace("I'm a Islam", "My god is Allah Swt.")
         response = response.replace("9", "16")
-        response = response.replace("I'm married to my job.", "I'm married with Emiko")
-        response = response.replace("I'm single.", "My husband is Emiko")
+        response = response.replace("I'm married to my job.", "I'm married with Melati")
+        response = response.replace("I'm single.", "My wife is Melati")
         response = response.replace("Reyzurobot.ai", "@komunitasvirtual")
         response = response.replace("I live in Virtual, Indonesia.", "I live in @komunitasvirtual.")
-        response = response.replace("I made myself", "I was Created by @komunitasvirtual")
+        response = response.replace("I made myself", "I was Created by @Reyzuuu")
         response = response.replace(
                 "Hi, my friend! Do you want me to tell you a joke?",
                 "Hello there I am Reyzu...nice to meet u")
-        response = response.replace("Have the control right.", "@komunitasvirtual is my owner.")
+        response = response.replace("Have the control right.", "@Reyzuuu is my owner.")
         response = response.replace(
                 "Hi, my friend, what can I do for you today?",
                 "Hi, My name is Reyzu Nice to meet you")
@@ -293,14 +293,14 @@ async def inuka(client, message):
     test = test.replace("Reyzu", "Aco")
     test = test.replace("My god is Allah Swt.", "I'm a Islam")
     test = test.replace("16", "9")
-    test = test.replace("Emiko is my husband.", "I'm single.")
+    test = test.replace("Melati is my wife.", "I'm single.")
     test = test.replace("@komunitasvirtual", "Reyzurobot.ai")
     test = test.replace("I live in @komunitasvirtual.", "I live in Virtual, Indonesia.")
-    test = test.replace("I was created by @komunitasvirtual", "I made myself")
+    test = test.replace("I was created by @Reyzuuu", "I made myself")
     test = test.replace(
         "Hello there I am Reyzu...nice to meet u",
         "Hi, my friend! Do you want me to tell you a joke?")
-    test = test.replace("@komunitasvirtual is my owner", "Have the control right.")
+    test = test.replace("@Reyzuuu is my owner", "Have the control right.")
     test = test.replace(
         "Hi, My name is Reyzu Nice to meet you.",
         "Hi, my friend, what can I do for you today?")
@@ -313,14 +313,14 @@ async def inuka(client, message):
     response = response.replace("I'm a Islam", "My god is Allah swt")
     response = response.replace("9", "16")
     response = response.replace("I'm married to my job.", "I'm married with Emiko")
-    response = response.replace("I'm single.", "My husband is Emiko")
+    response = response.replace("I'm single.", "My wife is Melati")
     response = response.replace("Reyzurobot.ai", "@komunitasvirtual")
     response = response.replace("I live in Virtual, Indonesia.", "I live in @komunitasvirtual")
-    response = response.replace("I made myself", "I was Created by @komunitasvirtual")
+    response = response.replace("I made myself", "I was Created by @Reyzuuu")
     response = response.replace(
             "Hi, my friend! Do you want me to tell you a joke?",
             "Hello there I am Reyzu...nice to meet u")
-    response = response.replace("Have the control right.", "@komunitasvirtual is my owner.")
+    response = response.replace("Have the control right.", "@Reyzuuu is my owner.")
     response = response.replace(
             "Hi, my friend, what can I do for you today?",
             "Hi, My name is Reyzu Nice to meet you")
@@ -388,14 +388,14 @@ async def inuka(client, message):
     test = test.replace("Reyzu", "Aco")
     test = test.replace("My god is Allah Swt.", "I'm a Islam")
     test = test.replace("16", "9") 
-    test = test.replace("Emiko is my husband.", "I'm single.")
+    test = test.replace("Melati is my wife.", "I'm single.")
     test = test.replace("@komunitasvirtual", "Reyzu Robot.ai")
     test = test.replace("I live in @komunitasvirtual.", "I live in Virtual, Indonesia.")
-    test = test.replace("I was created by @komunitasvirtual", "I made myself")
+    test = test.replace("I was created by @Reyzuuu", "I made myself")
     test = test.replace(
         "Hello there I am Reyzu...nice to meet u",
         "Hi, my friend! Do you want me to tell you a joke?")
-    test = test.replace("@komunitasvirtual is my owner", "Have the control right.")
+    test = test.replace("@Reyzuuu is my owner", "Have the control right.")
     test = test.replace(
         "Hi, My name is Reyzu Nice to meet you.",
         "Hi, my friend, what can I do for you today?")
@@ -405,16 +405,16 @@ async def inuka(client, message):
     response = response.replace("Luna", "Reyzu")
     response = response.replace("luna", "reyzu")
     response = response.replace("I'm a Islam", "My god is Allah Swt.")
-    response = response.replace("I'm married to my job.", "I'm married with Emiko")
+    response = response.replace("I'm married to my job.", "I'm married with Melati")
     response = response.replace("9", "16") 
-    response = response.replace("I'm single.", "My husband is Emiko")
+    response = response.replace("I'm single.", "My wife is Melati")
     response = response.replace("Reyzu Robot.ai", "@komunitasvirtual")
     response = response.replace("I live in Virtual, Indonesia.", "I live in @komunitasvirtual.")
-    response = response.replace("I made myself", "I was Created by @komunitasvirtual")
+    response = response.replace("I made myself", "I was Created by @Reyzuuu")
     response = response.replace(
             "Hi, my friend! Do you want me to tell you a joke?",
-            "Hello there I am Emiko...nice to meet u")
-    response = response.replace("Have the control right.", "@komunitasvirtual is my owner.")
+            "Hello there I am Reyzu...nice to meet u")
+    response = response.replace("Have the control right.", "@Reyzuuu is my owner.")
     response = response.replace(
             "Hi, my friend, what can I do for you today?",
             "Hi, My name is Reyzu Nice to meet you")

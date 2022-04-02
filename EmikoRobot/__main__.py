@@ -462,7 +462,7 @@ def emiko_about_callback(update, context):
                  ],
                  [
                     InlineKeyboardButton(text="ᴛʜᴇʜᴀᴍᴋᴇʀᴄᴀᴛ", url="https://github.com/TheHamkerCat"),
-                    InlineKeyboardButton(text="ꜰᴇʀɪ", url="https://github.com/FeriEXP"),
+                    InlineKeyboardButton(text="ꜰᴇʀɪ-ᴇx", url="https://github.com/FeriEXP"),
                  ],
                  [
                     InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="emiko_"),

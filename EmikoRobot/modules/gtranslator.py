@@ -28,7 +28,7 @@ I can convert text to voice and voice to text.
 ❂ /tts <lang code> *:* Reply to any message to get text to speech output.
 ❂ /stt *:* Type in reply to a voice message (support english only) to extract text from it.
 
-*Language Codes*
+*Language Codes :*
 Get /langs below to see the list of supported language codes.
 """
 

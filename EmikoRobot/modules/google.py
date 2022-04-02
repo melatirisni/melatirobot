@@ -289,5 +289,5 @@ __help__ = """
 ❂ /imdb <Movie name> *:* Get full info about a movie with imdb.
 ❂ Reyzu <query> *:* Reyzu answers the query.
 
-Ex: `Reyzu where is Indonesia?`
+Ex : `Reyzu where is Indonesia?`
 """

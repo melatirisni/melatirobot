@@ -1,4 +1,4 @@
-__mod_name__ = "Music/Video"
+__mod_name__ = "Music Player"
 
 __help__ = """
 *Available Commands : play, vplay ,cplay.*

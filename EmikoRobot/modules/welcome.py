@@ -1249,7 +1249,7 @@ __help__ = """
 ❂ /cleanservice <on/off *:* deletes telegrams welcome/left service messages.
 
 *Example :*
-user joined chat, user left chat.
+User joined chat, user left chat.
 
 *Welcome markdown :*
 ❂ /welcomehelp *:* view more formatting information for custom welcome/goodbye messages.

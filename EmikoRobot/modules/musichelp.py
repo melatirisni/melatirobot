@@ -33,6 +33,6 @@ __help__ = """
 ❂ /authusers - Check auth list of the group.
 
 *Sudo User*
-Come and see [Only For Sudo User](https://telegra.ph/Only-For-Sudo-User-04-02)
+Come and see [Only For Sudo User](https://t.me/komunitasvirtual/275)
 
 """

@@ -561,7 +561,7 @@ be useful when updating a current note.
 ✦ /clear <notename> *:* clear note with this name.
 ✦ /removeallnotes *:* removes all notes from the group.
 
-*Note:* Note names are case-insensitive and they are automatically converted to lowercase before getting saved.
+*Note :* Note names are case-insensitive and they are automatically converted to lowercase before getting saved.
 """
 
 __mod_name__ = "Notes"

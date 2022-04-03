@@ -21,7 +21,7 @@ __help__ = """
 eg : /tl ja : translates to Japanese.
 ✦ /tl <source>//<dest> : translates from <source> to <lang>.
 eg : /tl ja//en : translates from Japanese to English.
-✦ /langs: get a list of supported languages for translation.
+✦ /langs : get a list of supported languages for translation.
 
 I can convert text to voice and voice to text.
 ✦ /tts <lang code> *:* Reply to any message to get text to speech output.

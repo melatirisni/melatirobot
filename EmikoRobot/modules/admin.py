@@ -921,30 +921,30 @@ def button(update: Update, context: CallbackContext) -> str:
   
 __help__ = """
 *User Commands *:
-❂ /admins *:* List of admins in the chat.
-❂ /pinned *:* To get the current pinned message.
+✦ /admins *:* List of admins in the chat.
+✦ /pinned *:* To get the current pinned message.
 
 *The Following Commands are Admins only :* 
-❂ /pin *:* Silently pins the message replied to - add `'loud'` or `'notify'` to give notifs to users.
-❂ /unpin *:* Unpins the currently pinned message.
-❂ /invitelink *:* Gets invitelink.
-❂ /promote *:* Promotes the user replied to.
-❂ /fullpromote *:* Promotes the user replied to with full rights.
-❂ /demote *:* Demotes the user replied to.
-❂ /title <title here> *:* Sets a custom title for an admin that the bot promoted.
-❂ /admincache *:* Force refresh the admins list.
-❂ /del *:* Deletes the message you replied to.
-❂ /purge *:* Deletes all messages between this and the replied to message.
-❂ /purge <integer X> *:* Deletes the replied message, and X messages following it if replied to a message.
-❂ /setgtitle <text> *:* Set group title.
-❂ /setgpic *:* Reply to an image to set as group photo.
-❂ /setdesc *:* Set group description.
-❂ /setsticker *:* Set group sticker.
+✦ /pin *:* Silently pins the message replied to - add `'loud'` or `'notify'` to give notifs to users.
+✦ /unpin *:* Unpins the currently pinned message.
+✦ /invitelink *:* Gets invitelink.
+✦ /promote *:* Promotes the user replied to.
+✦ /fullpromote *:* Promotes the user replied to with full rights.
+✦ /demote *:* Demotes the user replied to.
+✦ /title <title here> *:* Sets a custom title for an admin that the bot promoted.
+✦ /admincache *:* Force refresh the admins list.
+✦ /del *:* Deletes the message you replied to.
+✦ /purge *:* Deletes all messages between this and the replied to message.
+✦ /purge <integer X> *:* Deletes the replied message, and X messages following it if replied to a message.
+✦ /setgtitle <text> *:* Set group title.
+✦ /setgpic *:* Reply to an image to set as group photo.
+✦ /setdesc *:* Set group description.
+✦ /setsticker *:* Set group sticker.
 
 *Rules* :
-❂ /rules *:* Get the rules for this chat.
-❂ /setrules <your rules here> *:* Set the rules for this chat.
-❂ /clearrules *:* Clear the rules for this chat.
+✦ /rules *:* Get the rules for this chat.
+✦ /setrules <your rules here> *:* Set the rules for this chat.
+✦ /clearrules *:* Clear the rules for this chat.
 """
 
 SET_DESC_HANDLER = CommandHandler("setdesc", set_desc, filters=Filters.chat_type.groups, run_async=True)

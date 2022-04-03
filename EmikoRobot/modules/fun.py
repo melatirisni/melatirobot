@@ -317,11 +317,11 @@ __help__ = """
 ✦ /slap *:* slap a user, or get slapped if not a reply.
 ✦ /shrug *:* get shrug XD.
 ✦ /table *:* get flip/unflip :v.
-✦ /decide *:* Randomly answers yes/no/maybe.
-✦ /toss *:* Tosses A coin.
+✦ /decide *:* randomly answers yes/no/maybe.
+✦ /toss *:* tosses a coin.
 ✦ /bluetext *:* check urself :v.
-✦ /roll *:* Roll a dice.
-✦ /rlg *:* Join ears,nose,mouth and create an emo.
+✦ /roll *:* roll a dice.
+✦ /rlg *:* join ears,nose,mouth and create an emo.
 ✦ /shout <keyword> *:* write anything you want to give loud shout.
 ✦ /weebify <text> *:* returns a weebified text.
 ✦ /sanitize *:* always use this before /pat or any contact.

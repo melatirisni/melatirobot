@@ -465,7 +465,10 @@ Admin only :
 ❂ /unblacklist <triggers> *:* Remove triggers from the blacklist. Same newline logic applies here, so you can remove multiple triggers at once.
 ❂ /blacklistmode <off/del/warn/ban/kick/mute/tban/tmute> *:* Action to perform when someone sends blacklisted words.
 
-*Blacklist Stickers :*
+Blacklist sticker is used to stop certain stickers. Whenever a sticker is sent, the message will be deleted immediately.
+
+*NOTE :* Blacklist stickers do not affect the group admin.
+
 ❂ /blsticker *:* See current blacklisted sticker.
 
 Admin only :
@@ -474,8 +477,6 @@ Admin only :
 ❂ /rmblsticker <sticker link> *:* Same as above.
 ❂ /blstickermode <delete/ban/tban/mute/tmute> *:* sets up a default action on what to do if users use blacklisted stickers.
 ❂ <sticker link> can be `https://t.me/addstickers/<sticker>` or just `<sticker>` or reply to the sticker message.
-
-*NOTE :* Blacklist sticker is used to stop certain stickers. Whenever a sticker is sent, the message will be deleted immediately. Blacklist stickers do not affect the group admin.
 
 """
 BLACKLIST_HANDLER = DisableAbleCommandHandler(

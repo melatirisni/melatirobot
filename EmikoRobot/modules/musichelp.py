@@ -1,4 +1,4 @@
-__mod_name__ = "Music Player"
+__mod_name__ = "Music/Video"
 
 __help__ = """
 ✦ /play (query) : Play music.

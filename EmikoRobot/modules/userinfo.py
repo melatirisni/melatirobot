@@ -353,7 +353,7 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://telegra.ph/Healrh-04-02"),
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/komunitasvirtual/295"),
                         ],
                     ]
                 ),
@@ -369,9 +369,7 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "Health", url="https://telegra.ph/Healrh-04-02"),
-                            InlineKeyboardButton(
-                                "Support", url="https://t.me/komunitasvirtual")
+                                "Health", url="https://t.me/komunitasvirtual/295"),
                         ],
                     ]
                 ),

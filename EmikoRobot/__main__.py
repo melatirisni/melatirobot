@@ -403,14 +403,12 @@ def emiko_about_callback(update, context):
 
     elif query.data == "emiko_admin":
         query.message.edit_text(
-            text=f"*๏ Let's make your group bit effective now*"
+            text=f"*Let's make your group bit effective now*"
             "\nCongragulations, Reyzu Robot now ready to manage your group."
             "\n\n*Admin Tools*"
-            "\nBasic Admin tools help you to protect and powerup your group."
-            "\nYou can ban members, Kick members, Promote someone as admin through commands of bot."
+            "\nBasic Admin tools help you to protect and powerup your group. You can ban members, Kick members, Promote someone as admin through commands of bot."
             "\n\n*Greetings*"
-            "\nLets set a welcome message to welcome new users coming to your group."
-            "\nsend `/setwelcome [message]` to set a welcome message!",
+            "\nLets set a welcome message to welcome new users coming to your group. send `/setwelcome [message]` to set a welcome message.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -420,7 +418,7 @@ def emiko_about_callback(update, context):
 
     elif query.data == "emiko_notes":
         query.message.edit_text(
-            text=f"<b>๏ Setting up notes</b>"
+            text=f"<b>Setting up notes</b>"
             f"\nYou can save message/media/audio or anything as notes to get a note simply use # at the beginning of a word."
             f"\n\nYou can also set buttons for notes and filters (refer help menu).",
             parse_mode=ParseMode.HTML,
@@ -430,7 +428,7 @@ def emiko_about_callback(update, context):
         )
     elif query.data == "emiko_support":
         query.message.edit_text(
-            text="*๏ Reyzu support chats*"
+            text="*Reyzu support chats*"
             "\nJoin my support Group/Channel for see or report a problem on Reyzu.",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
@@ -450,8 +448,8 @@ def emiko_about_callback(update, context):
 
     elif query.data == "emiko_credit":
         query.message.edit_text(
-            text=f"๏ Credit for Reyzu\n"
-            "\nHere Developers Making And Give Inspiration For Made The Reyzu Robot.",
+            text=f"Credit for Reyzu\n"
+            "\nHere Developers making and give inspiration for made the Reyzu Robot.",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [

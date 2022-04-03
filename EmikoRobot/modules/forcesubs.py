@@ -174,11 +174,8 @@ def config(client, message):
 
 
 __help__ = """
-*Force Subscribe :*
-Reyzu can mute members who are not subscribed your channel until they subscribe.
-When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them.
+Reyzu can mute members who are not subscribed your channel until they subscribe. When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them.
 
-*Setup*
 *Only creator*
 • Add me in your group as admin
 • Add me in your channel as admin 
@@ -191,10 +188,9 @@ When enabled I will mute unsubscribed members and show them a unmute button. Whe
 
 *Federation :*
 Everything is fun, until a spammer starts entering your group, and you have to block it. Then you need to start banning more, and more, and it hurts.
-But then you have many groups, and you don't want this spammer to be in one of your groups - how can you deal? Do you have to manually block it, in all your groups?\n
-*No longer!* With Federation, you can make a ban in one chat overlap with all other chats.\n
-You can even designate federation admins, so your trusted admin can ban all the spammers from chats you want to protect.\n
-*Commands :*\n
+But then you have many groups, and you don't want this spammer to be in one of your groups - how can you deal? Do you have to manually block it, in all your groups? *No longer!* With Federation, you can make a ban in one chat overlap with all other chats. You can even designate federation admins, so your trusted admin can ban all the spammers from chats you want to protect.
+
+*Commands :*
 Feds are now divided into 3 sections for your ease.
 ❂ `/fedownerhelp` *:* Provides help for fed creation and owner only commands.
 ❂ `/fedadminhelp` *:* Provides help for fed administration commands.

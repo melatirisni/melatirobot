@@ -565,7 +565,7 @@ When marked as AFK, any mentions will be replied to with a message stating that 
   - brb <reason> : Same as the afk command, but not a command. 
   
 *What is that health thingy?*
-Come and see [HP System Explained](https://telegra.ph/hp-system-explained-03-31)
+Come and see [HP System Explained](https://t.me/komunitasvirtual/295)
 """
 
 SET_BIO_HANDLER = DisableAbleCommandHandler("setbio", set_about_bio, run_async=True)

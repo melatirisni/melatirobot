@@ -535,7 +535,8 @@ def __user_info__(user_id):
 
 
 __help__ = """
-*ID :*
+*Overall Information about you :*
+❂ /info *:* get information about a user.
 ❂ /id *:* get the current group id. If used by replying to a message, gets that user's id.
 ❂ /gifid *:* reply to a gif to me to tell you its file ID.
  
@@ -552,9 +553,6 @@ Examples :
 Examples :
 ❂ /bio @username(defaults to yours if not specified).
 ❂ /setbio This user is a wolf (reply to the user).
- 
-*Overall Information about you :*
-❂ /info *:* get information about a user. 
  
 *json Detailed info :*
 ❂ /json *:* Get Detailed info about any message.

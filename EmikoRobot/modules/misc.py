@@ -183,7 +183,6 @@ def wall(update: Update, context: CallbackContext):
 
 __help__ = """
 *Available commands :*
-
 ❂ /markdownhelp *:* quick summary of how markdown works in telegram - can only be called in private chats.
 ❂ /paste *:* Saves replied content to `nekobin.com` and replies with a url.
 ❂ /react *:* Reacts with a random reaction.

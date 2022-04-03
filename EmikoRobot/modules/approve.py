@@ -193,7 +193,7 @@ def unapproveall_btn(update: Update, context: CallbackContext):
 
 
 __help__ = """
-*Admin commands :*
+*Admins Only :*
 ✦ /approval *:* Check a user's approval status in this chat.
 ✦ /approve *:* Approve of a user. Locks, blacklists, and antiflood won't apply to them anymore.
 ✦ /unapprove *:* Unapprove of a user. They will now be subject to locks, blacklists, and antiflood again.

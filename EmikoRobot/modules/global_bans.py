@@ -539,14 +539,14 @@ def __chat_settings__(chat_id, user_id):
 
 __help__ = """
 *Admins only :*
-❂ /antispam <on/off/yes/no> : Will toggle our antispam tech or return your current settings.
+✦ /antispam <on/off/yes/no> : Will toggle our antispam tech or return your current settings.
 
 Anti-Spam, used by bot devs to ban spammers across all groups. This helps protect \
 you and your groups by removing spam flooders as quickly as possible.
 
-❂ /flood : Get the current antiflood settings
-❂ /setflood <number/off/no> : Set the number of messages after which to take action on a user. Set to '0', 'off', or 'no' to disable.
-❂ /setfloodmode <action type> : Choose which action to take on a user who has been flooding. Options : ban/kick/mute/tban/tmute.
+✦ /flood : Get the current antiflood settings
+✦ /setflood <number/off/no> : Set the number of messages after which to take action on a user. Set to '0', 'off', or 'no' to disable.
+✦ /setfloodmode <action type> : Choose which action to take on a user who has been flooding. Options : ban/kick/mute/tban/tmute.
 """
 
 GBAN_HANDLER = CommandHandler("gban", gban, run_async=True)

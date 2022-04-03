@@ -1,6 +1,6 @@
 {
-      "name": "Emiko Robot",
-      "description": "A Powerful  Telegram group management bot with anime theme.",
+      "name": "Reyzu Robot",
+      "description": "A Powerful  Telegram group management bot.",
       "keywords": [
          "telegram",
          "advance",
@@ -46,7 +46,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2088106582"
+         "value": ""
      },
 
       "STRING_SESSION": {
@@ -64,7 +64,7 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "emiexrobot"
+         "value": ""
       },
 
       "BOT_ID": {
@@ -74,12 +74,12 @@
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "excrybaby"
+         "value": ""
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "emikosupport"
+         "value": "komunitasvirtual"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",

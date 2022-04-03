@@ -83,12 +83,12 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 *Hi {} !*
-✪ I can help manage your group [✨]
+✧ I can help manage your group [✨]
 
-× *Uptime:* `{}`
-× `{}` *users, across* `{}` *chats.*
+✦ *Uptime:* `{}`
+✦ `{}` *users, across* `{}` *chats.*
 
-✪ Hit /help to see my available commands.
+✧ Hit /help to see my available commands.
 """
 
 buttons = [

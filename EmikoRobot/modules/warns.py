@@ -490,7 +490,6 @@ def __chat_settings__(chat_id, user_id):
     )
 
 __help__ = """
-
 ✦ /warns <userhandle> : get a user's number, and reason, of warns.
 ✦ /warnlist : list of all current warning filters.
 ✦ /warn <userhandle> : warn a user. After 3 warns, the user will be banned from the group. Can also be used as a reply.

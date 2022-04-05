@@ -85,7 +85,7 @@ PM_START_TEXT = """
 *Hi {} !*
 ✧ I can help manage your group [✨]
 
-ϟ *Uptime:* `{}`
+ϟ *Uptime :* `{}`
 ϟ `{}` *users, across* `{}` *chats.*
 
 ✧ Hit /help to see my available commands.

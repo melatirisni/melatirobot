@@ -84,6 +84,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 *Hi {} !*
 ✧ Now everything everywhere all at once.
+✧ Melati can help manage your group.
 
 ϟ *Uptime :* `{}`.
 ϟ `{}` *users, across* `{}` *chats.*

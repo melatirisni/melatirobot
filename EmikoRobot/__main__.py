@@ -97,7 +97,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="help_back"),
-        InlineKeyboardButton(text="ᴄᴏɴᴛᴀᴄᴛ", url="https://t.me/Reyzuuu"),
+        InlineKeyboardButton(text="ᴄᴏɴᴛᴀᴄᴛ", url="https://t.me/melatimusic"),
     ],
     [
         InlineKeyboardButton(
@@ -358,7 +358,7 @@ def emiko_about_callback(update, context):
     query = update.callback_query
     if query.data == "emiko_":
         query.message.edit_text(
-            text="I'm *Reyzu Robot*, a powerful group management bot built to help you manage your group easily."
+            text="I'm *Melati Robot*, a powerful group management bot built to help you manage your group easily."
             "\n• I can play music and videos."
             "\n• I can restrict users."
             "\n• I can greet users with customizable welcome messages and even set a group's rules."
@@ -366,7 +366,7 @@ def emiko_about_callback(update, context):
             "\n• I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc."
             "\n• I have a note keeping system, blacklists, and even predetermined replies on certain keywords."
             "\n• I check for admins' permissions before executing any command and more stuffs"
-            "\n\n_Reyzu's licensed under the GNU General Public License v3.0_"
+            "\n\n_Melati's licensed under the GNU General Public License v3.0_"
             "\n\nClick on button bellow to get basic help.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -404,7 +404,7 @@ def emiko_about_callback(update, context):
     elif query.data == "emiko_admin":
         query.message.edit_text(
             text=f"*Let's make your group bit effective now*"
-            "\nCongragulations, Reyzu Robot now ready to manage your group."
+            "\nCongragulations, Melati Robot now ready to manage your group."
             "\n\n*Admin Tools*"
             "\nBasic Admin tools help you to protect and powerup your group. You can ban members, Kick members, Promote someone as admin through commands of bot."
             "\n\n*Greetings*"
@@ -428,7 +428,7 @@ def emiko_about_callback(update, context):
         )
     elif query.data == "emiko_support":
         query.message.edit_text(
-            text="*Reyzu support chats*"
+            text="*Melati support chats*"
             "\nJoin my support Group/Channel for see or report a problem on Reyzu.",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
@@ -448,13 +448,13 @@ def emiko_about_callback(update, context):
 
     elif query.data == "emiko_credit":
         query.message.edit_text(
-            text=f"Credit for Reyzu\n"
+            text=f"Credit for Melati\n"
             "\nHere Developers making and give inspiration for made the Reyzu Robot.",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="ʀᴇʏᴢᴜ-ʀᴏʙᴏᴛ", url="https://github.com/reyzuuu"),
+                    InlineKeyboardButton(text="ᴍᴇʟᴀᴛɪ-ʀᴏʙᴏᴛ", url="https://github.com/melatirisni"),
                     InlineKeyboardButton(text="ꜱᴇɴᴀ-ᴇx", url="https://github.com/kennedy-ex"),
                  ],
                  [
@@ -779,7 +779,7 @@ def main():
         try:
             dispatcher.bot.sendMessage(
                 f"@{SUPPORT_CHAT}", 
-                "👋 Hi, i'm alive.",
+                "👋 Hi, Melati alive.",
                 parse_mode=ParseMode.MARKDOWN
             )
         except Unauthorized:

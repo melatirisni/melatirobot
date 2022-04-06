@@ -430,7 +430,7 @@ def emiko_about_callback(update, context):
     elif query.data == "emiko_support":
         query.message.edit_text(
             text="*Melati support chats*"
-            "\nJoin my support Group/Channel for see or report a problem on Reyzu.",
+            "\nJoin my support Group/Channel for see or report a problem on Melati.",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
@@ -450,7 +450,7 @@ def emiko_about_callback(update, context):
     elif query.data == "emiko_credit":
         query.message.edit_text(
             text=f"Credit for Melati\n"
-            "\nHere Developers making and give inspiration for made the Reyzu Robot.",
+            "\nHere Developers making and give inspiration for made the Melati Robot.",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [

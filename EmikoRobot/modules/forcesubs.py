@@ -174,7 +174,7 @@ def config(client, message):
 
 
 __help__ = """
-Reyzu can mute members who are not subscribed your channel until they subscribe. When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them.
+Melati can mute members who are not subscribed your channel until they subscribe. When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them.
 
 *Only creator*
 ✧ Add me in your group as admin
